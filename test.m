@@ -1,1 +1,2 @@
-disp("hello world");%111
+disp("hello world");
+a=6;
